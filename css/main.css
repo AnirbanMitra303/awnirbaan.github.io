@@ -45,3 +45,9 @@ ul.posts li {
 ul li {
     list-style-type: square;
 }
+
+img {
+    display: block;
+    width: 10em;
+    height: 11em;
+}
