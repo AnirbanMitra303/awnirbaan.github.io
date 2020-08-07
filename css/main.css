@@ -18,7 +18,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color: #772302;
+    color: #1F968BFF;
     transform: skew(-10deg);
     /*background-color: #e7dbdb;*/
 }
