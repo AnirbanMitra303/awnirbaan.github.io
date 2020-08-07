@@ -18,7 +18,14 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #772302;
+    transform: skew(-10deg);
+    /*background-color: #e7dbdb;*/
 }
+/* selected link check if working*/
+a:active {
+    color: #772302;
+  }
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
