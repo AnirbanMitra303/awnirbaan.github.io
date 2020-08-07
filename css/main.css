@@ -24,7 +24,7 @@ a:hover {
 }
 /* selected link check if working*/
 a:active {
-    color: #772302;
+    color: #1F968BFF;
   }
 h1 {
     font-size: 2em;
