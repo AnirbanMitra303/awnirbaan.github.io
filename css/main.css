@@ -14,12 +14,12 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #0a54a8;
+    color: #403891FF;
 }
 a:hover {
     text-decoration: underline;
     color: #1F968BFF;
-    transform: skew(-10deg);
+    transform: skew(-10deg); /*does not work yet*/
     /*background-color: #e7dbdb;*/
 }
 /* selected link check if working*/
