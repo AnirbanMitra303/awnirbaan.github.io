@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 70px auto;
+    width: 60%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -18,7 +18,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color: #1F968BFF;
+    color: #D84C3EFF; /*#1F968BFF*/
     transform: skew(-10deg); /*does not work yet*/
     /*background-color: #e7dbdb;*/
 }
@@ -49,14 +49,15 @@ ul.posts li {
     list-style: none;
 }
 
-ul li {
+/*ul li {
     list-style-type: square;
-}
+}*/
 
 img {
     /*display: block;*/
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     /*border: 10px solid #ddd;*/
+    /*border-radius: 75px;*/
     padding: 0px 30px 20px 0px;
 }
